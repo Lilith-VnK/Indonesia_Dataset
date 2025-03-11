@@ -1,0 +1,984 @@
+{
+    "Jakarta Pusat": {
+        "Kabupaten": "Jakarta Pusat",
+        "Kecamatan": {
+            "Cempaka Putih": {
+                "Kelurahan": {
+                    "Cempaka Putih Barat": [
+                        "Jalan Cempaka Putih Barat",
+                        "Jalan Cempaka Putih Barat II",
+                        "Jalan Letjen Suprapto (Cempaka Putih Barat)"
+                    ],
+                    "Cempaka Putih Timur": [
+                        "Jalan Cempaka Putih Timur",
+                        "Jalan Ahmad Yani, Jenderal (No. 50-55, 60, 64-67, 69-73, 79-80)",
+                        "Jalan Cempaka Putih Tengah I - XXXIII",
+                        "Jalan Cempaka Putih Tengah Raya",
+                        "Jalan Cempaka Warna (RT.01-RT.20/RW.04)",
+                        "Jalan Cempaka Putih Raya",
+                        "Jalan Dirgahayu",
+                        "Jalan Cempaka Putih Timur I - XI",
+                        "Jalan Rawasari Barat",
+                        "Jalan Rawasari Timur I - V",
+                        "Jalan Rawasari Timur Dalam",
+                        "Jalan Rawasari Timur",
+                        "Jalan Letjen Suprapto (Cempaka Putih Timur)",
+                        "Jalan Cempaka Putih Utara",
+                        "Jalan Cempaka Putih Tengah"
+                    ],
+                    "Rawasari": [
+                        "Jalan Rawasari Selatan",
+                        "Jalan Percetakan Negara",
+                        "Jalan Percetakan Negara II",
+                        "Jalan Percetakan Negara III, V - XI",
+                        "Jalan X",
+                        "Jalan Ahmad Yani, Jenderal (Kios Pasar No.1-35)",
+                        "Jalan B",
+                        "Jalan Bacang",
+                        "Jalan Bacang B I No. 1 - 33",
+                        "Jalan Bacang Blok G No. 1 - 26",
+                        "Jalan D",
+                        "Jalan E",
+                        "Jalan F",
+                        "Jalan F I,II",
+                        "Jalan Kabel Atas",
+                        "Jalan Pramuka",
+                        "Jalan Pramuka, B387, B390, C1, C20, C22-C24",
+                        "Jalan Pramuka, Komp. Perhubungan Blok B",
+                        "Jalan Pramuka, Komp. Perhubungan Udara",
+                        "Jalan Pramuka Jayasari",
+                        "Jalan Pramuka Raya",
+                        "Jalan Pramuka Sari I - V",
+                        "Jalan Rawamangun",
+                        "Jalan Rawasari Baru I - V",
+                        "Jalan Rawasari Selatan I",
+                        "Jalan Rawasari Tengah",
+                        "Jalan Rawasari"
+                    ]
+                }
+            },
+            "Gambir": {
+                "Kelurahan": {
+                    "Cideng": [
+                        "Jalan Cideng Barat",
+                        "Jalan Cideng Barat Dalam",
+                        "Jalan Cideng Timur",
+                        "Jalan Cideng Timur Dalam",
+                        "Jalan Biak",
+                        "Jalan Cideng Raya",
+                        "Jalan Tanah Abang II",
+                        "Jalan Kampung Bali XXXIII",
+                        "Jalan Kebon Jahe Raya",
+                        "Jalan Kebon Jahe Gang 1 sampai Gang 12",
+                        "Jalan Petojo VI"
+                    ],
+                    "Gambir": [
+                        "Jalan Medan Merdeka Selatan",
+                        "Jalan Medan Merdeka Barat",
+                        "Jalan Duri Pulo",
+                        "Jalan Duri",
+                        "Jalan Duri I",
+                        "Jalan Sabar",
+                        "Jalan Makmur",
+                        "Jalan Sinyar",
+                        "Jalan Setia Kawan Raya",
+                        "Jalan Setia Kawan Barat",
+                        "Jalan Setia Kawan Ujung"
+                    ],
+                    "Kebon Kelapa": [
+                        "Jalan Kebon Kelapa",
+                        "Jalan Kesehatan"
+                    ],
+                    "Petojo Selatan": [
+                        "Jalan Petojo Selatan",
+                        "Jalan Petojo Enclek"
+                    ],
+                    "Petojo Utara": [
+                        "Jalan Petojo Utara",
+                        "Jalan Balikpapan"
+                    ]
+                }
+            },
+            "Johar Baru": {
+                "Kelurahan": {
+                    "Galur": [
+                        "Jalan Galur",
+                        "Jalan Tanah Tinggi"
+                    ],
+                    "Johar Baru": [
+                        "Jalan Johar Baru",
+                        "Jalan Percetakan Negara"
+                    ],
+                    "Kampung Rawa": [
+                        "Jalan Kampung Rawa",
+                        "Jalan Kramat Pulo"
+                    ],
+                    "Tanah Tinggi": [
+                        "Jalan Tanah Tinggi",
+                        "Jalan Kramat Jaya"
+                    ]
+                }
+            },
+            "Kemayoran": {
+                "Kelurahan": {
+                    "Cempaka Baru": [
+                        "Jalan Cempaka Baru",
+                        "Jalan Angkasa"
+                    ],
+                    "Gunung Sahari Selatan": [
+                        "Jalan Gunung Sahari",
+                        "Jalan Rajawali"
+                    ],
+                    "Harapan Mulya": [
+                        "Jalan Harapan Mulya",
+                        "Jalan Garuda"
+                    ],
+                    "Kebon Kosong": [
+                        "Jalan Kebon Kosong",
+                        "Jalan Benyamin Sueb"
+                    ],
+                    "Kemayoran": [
+                        "Jalan Kemayoran Gempol",
+                        "Jalan Serdang"
+                    ],
+                    "Serdang": [
+                        "Jalan Serdang",
+                        "Jalan Bendungan Jago"
+                    ],
+                    "Sumur Batu": [
+                        "Jalan Sumur Batu",
+                        "Jalan Dakota"
+                    ],
+                    "Utan Panjang": [
+                        "Jalan Utan Panjang",
+                        "Jalan Kepu"
+                    ]
+                }
+            },
+            "Menteng": {
+                "Kelurahan": {
+                    "Cikini": [
+                        "Jalan Cikini Raya",
+                        "Jalan Raden Saleh"
+                    ],
+                    "Gondangdia": [
+                        "Jalan Gondangdia Lama",
+                        "Jalan RP Soeroso"
+                    ],
+                    "Kebon Sirih": [
+                        "Jalan Kebon Sirih",
+                        "Jalan Jaksa"
+                    ],
+                    "Menteng": [
+                        "Jalan Teuku Umar",
+                        "Jalan Diponegoro"
+                    ],
+                    "Pegangsaan": [
+                        "Jalan Pegangsaan Timur",
+                        "Jalan Proklamasi"
+                    ]
+                }
+            },
+            "Sawah Besar": {
+                "Kelurahan": {
+                    "Gunung Sahari Utara": [
+                        "Jalan Gunung Sahari",
+                        "Jalan Mangga Besar"
+                    ],
+                    "Karang Anyar": [
+                        "Jalan Karang Anyar",
+                        "Jalan Lautze"
+                    ],
+                    "Kartini": [
+                        "Jalan Kartini Raya",
+                        "Jalan Samanhudi"
+                    ],
+                    "Mangga Dua Selatan": [
+                        "Jalan Mangga Dua Raya",
+                        "Jalan Pangeran Jayakarta"
+                    ],
+                    "Pasar Baru": [
+                        "Jalan Pasar Baru",
+                        "Jalan Antara"
+                    ]
+                }
+            },
+            "Senen": {
+                "Kelurahan": {
+                    "Bungur": [
+                        "Jalan Bungur Besar",
+                        "Jalan Kalibaru Timur"
+                    ],
+                    "Kenari": [
+                        "Jalan Kenari",
+                        "Jalan Salemba Raya"
+                    ],
+                    "Kramat": [
+                        "Jalan Kramat Raya",
+                        "Jalan Kramat Lontar"
+                    ],
+                    "Kwitang": [
+                        "Jalan Kwitang",
+                        "Jalan Kramat Kwitang"
+                    ],
+                    "Paseban": [
+                        "Jalan Paseban",
+                        "Jalan Kramat Sentiong"
+                    ],
+                    "Senen": [
+                        "Jalan Senen Raya",
+                        "Jalan Stasiun Senen"
+                    ]
+                }
+            },
+            "Tanah Abang": {
+                "Kelurahan": {
+                    "Bendungan Hilir": [
+                        "Jalan Bendungan Hilir",
+                        "Jalan Penjernihan"
+                    ],
+                    "Gelora": [
+                        "Jalan Asia Afrika",
+                        "Jalan Gerbang Pemuda"
+                    ],
+                    "Kampung Bali": [
+                        "Jalan Kampung Bali",
+                        "Jalan Kebon Kacang"
+                    ],
+                    "Karet Tengsin": [
+                        "Jalan Karet Pasar Baru",
+                        "Jalan KH Mas Mansyur"
+                    ],
+                    "Kebon Kacang": [
+                        "Jalan Kebon Kacang",
+                        "Jalan Fachrudin"
+                    ],
+                    "Kebon Melati": [
+                        "Jalan Kebon Melati",
+                        "Jalan KH Wahid Hasyim"
+                    ],
+                    "Petamburan": [
+                        "Jalan Petamburan",
+                        "Jalan KS Tubun"
+                    ]
+                }
+            }
+        }
+    },
+    "Jakarta Utara": {
+        "Kabupaten": "Jakarta Utara",
+        "Kecamatan": {
+            "Cilincing": {
+                "Kelurahan": {
+                    "Cilincing": [
+                        "Jalan Cilincing Raya",
+                        "Jalan Sungai Landak"
+                    ],
+                    "Semper Barat": [
+                        "Jalan Raya Semper",
+                        "Jalan Kebantenan"
+                    ],
+                    "Semper Timur": [
+                        "Jalan Madya Kebantenan",
+                        "Jalan Komplek BPP"
+                    ],
+                    "Marunda": [
+                        "Jalan Marunda Baru",
+                        "Jalan Marunda Makmur"
+                    ],
+                    "Kalibaru": [
+                        "Jalan Kalibaru Timur",
+                        "Jalan Kalibaru Barat"
+                    ],
+                    "Rorotan": [
+                        "Jalan Rorotan",
+                        "Jalan Cakung Cilincing"
+                    ]
+                }
+            },
+            "Koja": {
+                "Kelurahan": {
+                    "Koja": [
+                        "Jalan Koja",
+                        "Jalan Rawa Badak"
+                    ],
+                    "Tugu Utara": [
+                        "Jalan Tugu Utara",
+                        "Jalan Tugu Selatan"
+                    ],
+                    "Tanjung Priok": [
+                        "Jalan Tanjung Priok",
+                        "Jalan Yos Sudarso"
+                    ]
+                }
+            },
+            "Kelapa Gading": {
+                "Kelurahan": {
+                    "Kelapa Gading Barat": [
+                        "Jalan Kelapa Gading Barat",
+                        "Jalan Boulevard Raya"
+                    ],
+                    "Kelapa Gading Timur": [
+                        "Jalan Kelapa Gading Timur",
+                        "Jalan Boulevard Timur"
+                    ],
+                    "Pegangsaan Dua": [
+                        "Jalan Pegangsaan Dua",
+                        "Jalan Boulevard Utara"
+                    ]
+                }
+            }
+        }
+    },
+    "Jakarta Selatan": {
+        "Kabupaten": "Jakarta Selatan",
+        "Kecamatan": {
+            "Cilandak": {
+                "Kelurahan": {
+                    "Cilandak Barat": [
+                        "Jalan Cilandak Barat",
+                        "Jalan Cilandak KKO",
+                        "Jalan Madrasah",
+                        "Jalan Damai"
+                    ],
+                    "Cilandak Timur": [
+                        "Jalan Cilandak Timur",
+                        "Jalan Cilandak Raya",
+                        "Jalan Gotong Royong",
+                        "Jalan Kenanga"
+                    ],
+                    "Lebak Bulus": [
+                        "Jalan Lebak Bulus I",
+                        "Jalan Lebak Bulus Raya",
+                        "Jalan Adiaksa",
+                        "Jalan Gunung Balong"
+                    ],
+                    "Pondok Labu": [
+                        "Jalan Pondok Labu I",
+                        "Jalan Pondok Labu Raya",
+                        "Jalan Haji Nawi",
+                        "Jalan Pinang"
+                    ],
+                    "Cipete Selatan": [
+                        "Jalan Cipete Selatan I",
+                        "Jalan Cipete Raya",
+                        "Jalan Abdul Majid Raya",
+                        "Jalan Bunga Melati"
+                    ]
+                }
+            },
+            "Kebayoran Baru": {
+                "Kelurahan": {
+                    "Kebayoran Baru": [
+                        "Jalan Kebayoran Baru",
+                        "Jalan Sisingamangaraja",
+                        "Jalan Wolter Monginsidi",
+                        "Jalan Senopati"
+                    ],
+                    "Gunung": [
+                        "Jalan Gunung",
+                        "Jalan Kerinci",
+                        "Jalan Dempo",
+                        "Jalan Semeru"
+                    ],
+                    "Kramat Pela": [
+                        "Jalan Kramat Pela",
+                        "Jalan Barito",
+                        "Jalan Dharmawangsa",
+                        "Jalan Panglima Polim"
+                    ],
+                    "Melawai": [
+                        "Jalan Melawai",
+                        "Jalan Wijaya",
+                        "Jalan Brawijaya",
+                        "Jalan Gunawarman"
+                    ],
+                    "Petogogan": [
+                        "Jalan Petogogan I",
+                        "Jalan Prapanca",
+                        "Jalan Bangka",
+                        "Jalan Paso"
+                    ],
+                    "Pulo": [
+                        "Jalan Pulo Raya",
+                        "Jalan Lamandau",
+                        "Jalan Gandaria Tengah",
+                        "Jalan Radio Dalam Raya"
+                    ],
+                    "Rawa Barat": [
+                        "Jalan Rawa Barat",
+                        "Jalan Taman Brawijaya",
+                        "Jalan Kemang Selatan",
+                        "Jalan Puri Mutiara"
+                    ],
+                    "Senayan": [
+                        "Jalan Senayan",
+                        "Jalan Asia Afrika",
+                        "Jalan Gerbang Pemuda",
+                        "Jalan Pintu Satu Senayan"
+                    ],
+                    "Cipete Utara": [
+                        "Jalan Cipete Utara",
+                        "Jalan Haji Jian",
+                        "Jalan Gaharu I",
+                        "Jalan Fatmawati Raya"
+                    ],
+                    "Gandaria Utara": [
+                        "Jalan Gandaria Utara",
+                        "Jalan KH. Ahmad Dahlan",
+                        "Jalan Prof. Joko Sutono SH",
+                        "Jalan Taman Wijaya Kusuma"
+                    ]
+                }
+            },
+            "Kebayoran Lama": {
+                "Kelurahan": {
+                    "Kebayoran Lama Selatan": [
+                        "Jalan Kebayoran Lama Selatan",
+                        "Jalan Ciputat Raya",
+                        "Jalan Masjid Al-Huda",
+                        "Jalan Swadaya"
+                    ],
+                    "Kebayoran Lama Utara": [
+                        "Jalan Kebayoran Lama Utara",
+                        "Jalan Panjang",
+                        "Jalan Pilar Mas Raya",
+                        "Jalan Srengseng Sawah"
+                    ],
+                    "Grogol Selatan": [
+                        "Jalan Grogol Selatan",
+                        "Jalan Raya Kebayoran Lama",
+                        "Jalan Mawar",
+                        "Jalan Bunga Flamboyan"
+                    ],
+                    "Grogol Utara": [
+                        "Jalan Grogol Utara",
+                        "Jalan Dr. Makaliwe",
+                        "Jalan Latumenten",
+                        "Jalan Semeru Raya"
+                    ],
+                    "Cipulir": [
+                        "Jalan Cipulir I",
+                        "Jalan Ciledug Raya",
+                        "Jalan Ulujami Raya",
+                        "Jalan Pondok Betung Raya"
+                    ],
+                    "Sukabumi Selatan": [
+                        "Jalan Sukabumi Selatan",
+                        "Jalan Raya Kebon Jeruk",
+                        "Jalan Permata Hijau",
+                        "Jalan Panjang Jiwo"
+                    ],
+                    "Sukabumi Utara": [
+                        "Jalan Sukabumi Utara",
+                        "Jalan Musyawarah",
+                        "Jalan Mandala Raya",
+                        "Jalan Anggrek Rosliana"
+                    ]
+                }
+            },
+            "Pancoran": {
+                "Kelurahan": {
+                    "Pancoran": [
+                        "Jalan Pancoran ",
+                        "Jalan Raya Pancoran",
+                        "Jalan Pasar Minggu Raya",
+                        "Jalan Prof. DR. Soepomo SH"
+                    ],
+                    "Kalibata": [
+                        "Jalan Kalibata",
+                        "Jalan Kalibata Selatan",
+                        "Jalan Rawajati Barat",
+                        "Jalan Pahlawan Kalibata"
+                    ],
+                    "Cikoko": [
+                        "Jalan Cikoko Barat I",
+                        "Jalan Cikoko Timur Raya",
+                        "Jalan Cikoko Permai",
+                        "Jalan Siaga Raya"
+                    ],
+                    "Pengadegan": [
+                        "Jalan Pengadegan Timur Raya",
+                        "Jalan Pengadegan Selatan",
+                        "Jalan Rawa Jati",
+                        "Jalan Cermai"
+                    ],
+                    "Duren Tiga": [
+                        "Jalan Duren Tiga Raya",
+                        "Jalan Mampang Prapatan VII",
+                        "Jalan Duren Bangka",
+                        "Jalan Kemang Utara"
+                    ],
+                    "Rawajati": [
+                        "Jalan Rawajati Timur I",
+                        "Jalan Rawajati Barat Dalam",
+                        "Jalan Wangi",
+                        "Jalan Samirono"
+                    ]
+                }
+            },
+            "Tebet": {
+                "Kelurahan": {
+                    "Tebet Barat": [
+                        "Jalan Tebet Barat",
+                        "Jalan Tebet Timur Dalam",
+                        "Jalan Tebet Raya",
+                        "Jalan Tebet Mas Indah"
+                    ],
+                    "Tebet Timur": [
+                        "Jalan Tebet Timur",
+                        "Jalan Tebet Utara Dalam",
+                        "Jalan MT Haryono",
+                        "Jalan Bukit Duri Tanjakan"
+                    ],
+                    "Kebon Baru": [
+                        "Jalan Kebon Baru I",
+                        "Jalan Asem Baris Raya",
+                        "Jalan Bukit Duri Plaza",
+                        "Jalan Lapangan Ros"
+                    ],
+                    "Bukit Duri": [
+                        "Jalan Bukit Duri Selatan",
+                        "Jalan Bukit Duri Tanjakan Timur",
+                        "Jalan Tanjakan Bima",
+                        "Jalan Bukit Duri Barat"
+                    ],
+                    "Manggarai": [
+                        "Jalan Manggarai Utara II",
+                        "Jalan Minangkabau Dalam",
+                        "Jalan Tambak Dalam",
+                        "Jalan Saharjo"
+                    ],
+                    "Menteng Dalam": [
+                        "Jalan Menteng Dalam",
+                        "Jalan Prof. DR. Soepomo SH",
+                        "Jalan Asem Baris",
+                        "Jalan Dr. Supomo"
+                    ],
+                    "Manggarai Selatan": [
+                        "Jalan Manggarai Selatan I",
+                        "Jalan Bukit Duri Selatan",
+                        "Jalan Sawo Kecik Raya",
+                        "Jalan Menteng Wadas Timur"
+                    ]
+                }
+            },
+            "Mampang Prapatan": {
+                "Kelurahan": {
+                    "Mampang Prapatan": [
+                        "Jalan Mampang Prapatan",
+                        "Jalan Mampang Prapatan Raya",
+                        "Jalan Tegal Parang Selatan",
+                        "Jalan Kemang I"
+                    ],
+                    "Prapatan": [
+                        "Jalan Prapatan",
+                        "Jalan Prapatan Selatan",
+                        "Jalan Buncit Raya",
+                        "Jalan Duren Tiga Raya"
+                    ],
+                    "Bangka": [
+                        "Jalan Bangka",
+                        "Jalan Kemang Utara",
+                        "Jalan Pela Mampang",
+                        "Jalan Kemang Dalam"
+                    ],
+                    "Tegal Parang": [
+                        "Jalan Tegal Parang Utara",
+                        "Jalan Tegal Parang Selatan I",
+                        "Jalan Gatot Subroto",
+                        "Jalan Kapten Tendean"
+                    ],
+                    "Kuningan Barat": [
+                        "Jalan Kuningan Barat",
+                        "Jalan Denpasar Raya",
+                        "Jalan Taman Mpu Sendok",
+                        "Jalan Mega Kuningan Timur"
+                    ]
+                }
+            },
+            "Jagakarsa": {
+                "Kelurahan": {
+                    "Jagakarsa": [
+                        "Jalan Jagakarsa",
+                        "Jalan Raya Jagakarsa",
+                        "Jalan Lenteng Agung Raya",
+                        "Jalan Aselih"
+                    ],
+                    "Ciganjur": [
+                        "Jalan Ciganjur",
+                        "Jalan Ciganjur Raya",
+                        "Jalan Kahfi I",
+                        "Jalan Brigif Raya"
+                    ],
+                    "Cipedak": [
+                        "Jalan Cipedak Raya",
+                        "Jalan Moh Kahfi II",
+                        "Jalan Gardu",
+                        "Jalan Srengseng Sawah Raya"
+                    ],
+                    "Lenteng Agung": [
+                        "Jalan Lenteng Agung Barat",
+                        "Jalan Raya Lenteng Agung",
+                        "Jalan Srengseng Sawah",
+                        "Jalan Agung Raya I"
+                    ],
+                    "Srengseng Sawah": [
+                        "Jalan Srengseng Sawah",
+                        "Jalan Brigif",
+                        "Jalan Kebagusan Raya",
+                        "Jalan Condet Raya"
+                    ],
+                    "Tanjung Barat": [
+                        "Jalan Tanjung Barat Lama",
+                        "Jalan Tanjung Barat Raya",
+                        "Jalan Nangka Raya",
+                        "Jalan TB Simatupang"
+                    ]
+                }
+            },
+            "Pasar Minggu": {
+                "Kelurahan": {
+                    "Pasar Minggu": [
+                        "Jalan Pasar Minggu",
+                        "Jalan Raya Pasar Minggu",
+                        "Jalan Pejaten Raya",
+                        "Jalan Salihara"
+                    ],
+                    "Pejaten Barat": [
+                        "Jalan Pejaten Barat I",
+                        "Jalan Pejaten Raya",
+                        "Jalan Kemang Utara IX",
+                        "Jalan Madrasah"
+                    ],
+                    "Pejaten Timur": [
+                        "Jalan Pejaten Timur Raya",
+                        "Jalan Siaga Raya",
+                        "Jalan Tanjung Mas Raya",
+                        "Jalan Batu Ampar I"
+                    ],
+                    "Kebagusan": [
+                        "Jalan Kebagusan Raya",
+                        "Jalan Baung Raya",
+                        "Jalan TB Simatupang",
+                        "Jalan Gotong Royong"
+                    ],
+                    "Jati Padang": [
+                        "Jalan Jati Padang Raya",
+                        "Jalan Warung Jati Barat",
+                        "Jalan Ampera Raya",
+                        "Jalan Paso"
+                    ],
+                    "Ragunan": [
+                        "Jalan Ragunan Raya",
+                        "Jalan Harsono RM",
+                        "Jalan RM Harsono",
+                        "Jalan Cilandak KKO"
+                    ],
+                    "Cilandak Timur": [
+                        "Jalan Cilandak Timur",
+                        "Jalan Raya Cilandak KKO",
+                        "Jalan Timbul",
+                        "Jalan Kesehatan"
+                    ]
+                }
+            },
+            "Pesanggrahan": {
+                "Kelurahan": {
+                    "Pesanggrahan": [
+                        "Jalan Pesanggrahan",
+                        "Jalan Raya Pesanggrahan",
+                        "Jalan Swadarma Raya",
+                        "Jalan Deplu Raya"
+                    ],
+                    "Bintaro": [
+                        "Jalan Bintaro Utama",
+                        "Jalan Bintaro Permai",
+                        "Jalan Bintaro Raya",
+                        "Jalan Veteran Raya"
+                    ],
+                    "Petukangan Selatan": [
+                        "Jalan Petukangan Selatan",
+                        "Jalan Deplu Raya",
+                        "Jalan Moch Kahfi I",
+                        "Jalan Guru Mukti"
+                    ],
+                    "Petukangan Utara": [
+                        "Jalan Petukangan Utara",
+                        "Jalan Ciledug Raya",
+                        "Jalan Kebayoran Lama",
+                        "Jalan Masjid Darul Falah"
+                    ],
+                    "Ulujami": [
+                        "Jalan Ulujami Raya",
+                        "Jalan Swadarma",
+                        "Jalan H. Muchtar Raya",
+                        "Jalan Damai Raya"
+                    ]
+                }
+            },
+            "Setiabudi": {
+                "Kelurahan": {
+                    "Setiabudi": [
+                        "Jalan Setiabudi Raya",
+                        "Jalan HR Rasuna Said",
+                        "Jalan Prof. DR. Satrio",
+                        "Jalan Denpasar Raya"
+                    ],
+                    "Karet": [
+                        "Jalan Karet Pasar Baru I",
+                        "Jalan Jend. Sudirman",
+                        "Jalan Galunggung Raya",
+                        "Jalan Bendungan Hilir Raya"
+                    ],
+                    "Karet Semanggi": [
+                        "Jalan Karet Semanggi",
+                        "Jalan Gatot Subroto",
+                        "Jalan Jend. Gatot Subroto Kav. 52-53",
+                        "Jalan Semanggi"
+                    ],
+                    "Guntur": [
+                        "Jalan Guntur",
+                        "Jalan Sultan Agung",
+                        "Jalan Halimun Raya",
+                        "Jalan Galunggung"
+                    ],
+                    "Kuningan Timur": [
+                        "Jalan Kuningan Timur",
+                        "Jalan Mega Kuningan Barat",
+                        "Jalan HR Rasuna Said Kav. 5",
+                        "Jalan Patra Kuningan"
+                    ],
+                    "Menteng Atas": [
+                        "Jalan Menteng Atas Selatan",
+                        "Jalan Minangkabau",
+                        "Jalan Halimun Raya",
+                        "Jalan Menteng Atas Barat"
+                    ],
+                    "Pasar Manggis": [
+                        "Jalan Pasar Manggis",
+                        "Jalan Minangkabau Dalam",
+                        "Jalan Dr. Saharjo",
+                        "Jalan Guntur"
+                    ],
+                    "Sudirman": [
+                        "Jalan Jend. Sudirman",
+                        "Jalan Setiabudi Utara Raya",
+                        "Jalan Karet Sawah",
+                        "Jalan Garnisun Dalam"
+                    ]
+                }
+            }
+        }
+    },
+    "Jakarta Barat": {
+        "Kabupaten": "Jakarta Barat",
+        "Kecamatan": {
+            "Grogol Petamburan": {
+                "Kelurahan": {
+                    "Grogol": [
+                        "Jalan Grogol",
+                        "Jalan Grogol Utara"
+                    ],
+                    "Petamburan": [
+                        "Jalan Petamburan",
+                        "Jalan Petamburan Selatan"
+                    ]
+                }
+            },
+            "Kebon Jeruk": {
+                "Kelurahan": {
+                    "Kebon Jeruk": [
+                        "Jalan Kebon Jeruk",
+                        "Jalan Kebon Jeruk Raya"
+                    ],
+                    "Duri Kepa": [
+                        "Jalan Duri Kepa",
+                        "Jalan Duri Kepa Selatan"
+                    ]
+                }
+            },
+            "Palmerah": {
+                "Kelurahan": {
+                    "Palmerah": [
+                        "Jalan Palmerah",
+                        "Jalan Palmerah Utara"
+                    ],
+                    "Slipi": [
+                        "Jalan Slipi",
+                        "Jalan Slipi Selatan"
+                    ]
+                }
+            },
+            "Taman Sari": {
+                "Kelurahan": {
+                    "Taman Sari": [
+                        "Jalan Taman Sari",
+                        "Jalan Taman Sari Raya"
+                    ],
+                    "Kota": [
+                        "Jalan Kota",
+                        "Jalan Kota Tua"
+                    ]
+                }
+            },
+            "Cengkareng": {
+                "Kelurahan": {
+                    "Cengkareng Barat": [
+                        "Jalan Cengkareng Barat",
+                        "Jalan Cengkareng Timur"
+                    ],
+                    "Cengkareng Timur": [
+                        "Jalan Cengkareng Timur",
+                        "Jalan Cengkareng Raya"
+                    ]
+                }
+            },
+            "Kembangan": {
+                "Kelurahan": {
+                    "Kembangan Selatan": [
+                        "Jalan Kembangan Selatan",
+                        "Jalan Kembangan Utara"
+                    ],
+                    "Kembangan Utara": [
+                        "Jalan Kembangan Utara",
+                        "Jalan Kembangan Raya"
+                    ]
+                }
+            }
+        }
+    },
+    "Jakarta Timur": {
+        "Kabupaten": "Jakarta Timur",
+        "Kecamatan": {
+            "Cakung": {
+                "Kelurahan": {
+                    "Cakung Barat": [
+                        "Jalan Cakung Barat",
+                        "Jalan Cakung Timur"
+                    ],
+                    "Cakung Timur": [
+                        "Jalan Cakung Timur",
+                        "Jalan Cakung Raya"
+                    ]
+                }
+            },
+            "Duren Sawit": {
+                "Kelurahan": {
+                    "Duren Sawit": [
+                        "Jalan Duren Sawit",
+                        "Jalan Duren Sawit Raya"
+                    ],
+                    "Pondok Bambu": [
+                        "Jalan Pondok Bambu",
+                        "Jalan Pondok Bambu Raya"
+                    ]
+                }
+            },
+            "Jatinegara": {
+                "Kelurahan": {
+                    "Jatinegara": [
+                        "Jalan Jatinegara",
+                        "Jalan Jatinegara Timur"
+                    ],
+                    "Rawamangun": [
+                        "Jalan Rawamangun",
+                        "Jalan Rawamangun Raya"
+                    ]
+                }
+            },
+            "Matraman": {
+                "Kelurahan": {
+                    "Matraman": [
+                        "Jalan Matraman",
+                        "Jalan Matraman Raya"
+                    ],
+                    "Pal Merah": [
+                        "Jalan Pal Merah",
+                        "Jalan Pal Merah Selatan"
+                    ]
+                }
+            },
+            "Pulo Gadung": {
+                "Kelurahan": {
+                    "Pulo Gadung": [
+                        "Jalan Pulo Gadung",
+                        "Jalan Pulo Gadung Raya"
+                    ],
+                    "Rawamangun": [
+                        "Jalan Rawamangun",
+                        "Jalan Rawamangun Selatan"
+                    ]
+                }
+            },
+            "Kramat Jati": {
+                "Kelurahan": {
+                    "Kramat Jati": [
+                        "Jalan Kramat Jati",
+                        "Jalan Kramat Jati Raya"
+                    ],
+                    "Cijantung": [
+                        "Jalan Cijantung",
+                        "Jalan Cijantung Raya"
+                    ]
+                }
+            },
+            "Ciracas": {
+                "Kelurahan": {
+                    "Ciracas": [
+                        "Jalan Ciracas",
+                        "Jalan Ciracas Raya"
+                    ],
+                    "Cibubur": [
+                        "Jalan Cibubur",
+                        "Jalan Cibubur Raya"
+                    ]
+                }
+            },
+            "Banjir Kanal Timur": {
+                "Kelurahan": {
+                    "Banjir Kanal Timur": [
+                        "Jalan Banjir Kanal Timur",
+                        "Jalan Banjir Kanal Barat"
+                    ]
+                }
+            }
+        }
+    },
+    "Tanggerang": {
+        "Kabupaten": "Tanggerang",
+        "Kecamatan": {
+            "Balaraja": {
+                "Kelurahan": {
+                    "Balaraja": [
+                        "Jalan Raya Serang",
+                        "Jalan Caringin 2",
+                        "Jalan Raya Kresek"
+                    ]
+                }
+            },
+            "Cikupa": {
+                "Kelurahan": {
+                    "Bunder": [
+                        "Jalan Jati Bunder"
+                    ],
+                    "Sukamulya": [
+                        "Jalan Raya Kresek"
+                    ]
+                }
+            }
+        }
+    },
+    "Banten": {
+        "Kabupaten": "Kabupaten Serang",
+        "Kecamatan": {
+            "Anyer": {
+                "Kelurahan": {
+                    "Anyer": [
+                        "Jalan Raya Anyer"
+                    ]
+                }
+            }
+        }
+    }
+}
